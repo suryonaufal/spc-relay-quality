@@ -36,7 +36,7 @@ Monitors **subgroup mean** and **subgroup range** across 25 subgroups (n=5 per s
 ---
 
 ### 2. p-Chart — Batch Defect Rate
-![p-Chart](02_pchart.png)
+![p-Chart](output/02_pchart.png)
 
 Monitors **proportion defective** across 20 inspection batches (~80–120 units per batch).
 
@@ -47,7 +47,7 @@ Monitors **proportion defective** across 20 inspection batches (~80–120 units 
 ---
 
 ### 3. Process Capability Analysis (Cp, Cpk)
-![Capability](03_capability.png)
+![Capability](output/03_capability.png)
 
 Quantifies how well the process fits within specification limits.
 
@@ -63,7 +63,7 @@ Target: **Cpk ≥ 1.33** (industry standard for stable processes)
 ---
 
 ### 4. Summary Dashboard
-![Summary Dashboard](04_summary_dashboard.png)
+![Summary Dashboard](output/04_summary_dashboard.png)
 
 Single-page summary combining all charts with a **KPI table** comparing both products against targets:
 
