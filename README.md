@@ -20,7 +20,7 @@ This type of analysis is directly applicable to IPQC roles in electronic compone
 ## Dashboard Outputs
 
 ### 1. X-bar & R Control Charts
-![X-bar & R Chart](01_xbar_r_chart.png)
+![X-bar & R Chart](output/01_xbar_r_chart.png)
 
 Monitors **subgroup mean** and **subgroup range** across 25 subgroups (n=5 per subgroup).
 
